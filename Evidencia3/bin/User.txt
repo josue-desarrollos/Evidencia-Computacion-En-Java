@@ -1,0 +1,2 @@
+Usuario= admin
+Contrase= root

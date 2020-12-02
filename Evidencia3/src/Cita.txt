@@ -1,0 +1,5 @@
+#Tue Dec 01 19:32:12 CST 2020
+1Fecha_Cita=01-12-2020
+1Motivo_Cita=quitarse lo chango
+1Cita_Numero=1
+1Hora_Cita=17\:00Horas
